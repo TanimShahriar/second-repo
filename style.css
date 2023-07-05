@@ -1,0 +1,16 @@
+.container{
+    margin: 0;
+    padding: 0;
+
+}
+.team-section{
+    width: 100%;
+    float: left;
+}
+
+.single-team-user{
+    width: 22%;
+    display: inline-block;
+    padding: 10px;
+    background-color: tomato;
+}
